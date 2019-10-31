@@ -1,4 +1,4 @@
 def plus_two(num)
 	num + 2
-	num
+	validates_numericality_of
 end
