@@ -1,4 +1,5 @@
 def plus_two(num)
 	num + 2
-	validates_numericality_of
+	num 
+	binding.pry
 end
